@@ -30,6 +30,10 @@ function gameStart() {
 // ================ NEW WORD ================
 
 // I think this is where having it all in 1 object will help
+//PSEUDO=====
+// If all 1 object
+// Math.random could be declared in the function 
+// So it will run when the function is ran from the win if statement
 
 // ================ MAIN FUNCTION ================
 
