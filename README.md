@@ -2,6 +2,8 @@
 
 ## A basic Javascript hangman game
 
+---
+
 ### Preview
 ![Hangman](https://raw.github.com/Cam-F/Hangman-Game/master/assets/images/demo.gif)
 
@@ -18,5 +20,6 @@
 * Javascript
 * jQuery
 
-### Author
-* Cameron Fuller
+---
+
+*  Written by: Cameron Fuller
