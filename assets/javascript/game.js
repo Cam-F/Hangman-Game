@@ -41,7 +41,7 @@ function gameStart() {
 function updateGuess(guess) {
     if (word.indexOf(guess) == -1) {                         // If the letter is not in the word
         wrongLetter.push(guess);                             // Add to wrongLetter array
-        wrongGuess.innerHTML = wrongLetter.join(", ");
+        wrongGuess.innerHTML = wrongLetter.join(" ");
         lives--;                                             // Lose 1 life
         livesSpan.innerHTML = lives;
         console.log(wrongLetter);
